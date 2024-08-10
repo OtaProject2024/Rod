@@ -1,0 +1,16 @@
+# Python
+**/__pycache__/**
+venv
+.venv
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# VScode
+.vscode/
+
+# project
+rod.log
